@@ -1,5 +1,7 @@
 # tic-tac-toe-python
 A simple local 2-player Tic Tac Toe game made in Python for learning purposes.
+
+![Tic Tac Toe in Python](/preview_screenshot.png)
 ## Notes
 The script/program is currently at it's 1.0 version. The code could probaly be cleaner and changed to not rely so much (or at all) at changing global variables all the time, but it works well for now. If I ever feel like changing it, a new version will be made available.
 ## Dependencies
