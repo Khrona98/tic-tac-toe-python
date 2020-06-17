@@ -8,5 +8,5 @@ Python 3.x
 Simply extract the file to the folder of your liking.
 ## Usage
 - Open the terminal
-- Change directory with 'cd' to the location of the main file "tic_tac_toe.py"
-- Execute the file with the command "python tic_tac_toe.py" or python3 tic_tac_toe.py"
+- Change directory to the location of the main file **'tic_tac_toe.py'** with **'cd /path/to/the/file'** (Linux) or **'cd \path\to\the\file'** (Windows)
+- Execute the file with the command **'python tic_tac_toe.py'** or **'python3 tic_tac_toe.py'** without the quotes.
